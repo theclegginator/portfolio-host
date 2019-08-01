@@ -3997,6 +3997,7 @@ input, select, textarea {
 	.profile-pic {
 		max-width: 300px;
 		margin-left: 50px;
+		border-radius: 4px;
 	}
 	
 	.skill-pic {
