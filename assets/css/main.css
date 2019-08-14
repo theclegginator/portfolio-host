@@ -4005,3 +4005,13 @@ input, select, textarea {
 		max-height: 200px;
 		margin: 20px;
 	}
+	
+	.hoverIcon:hover {
+		transition: .5s all;
+		transform: scale(1.2);
+	  }
+	  
+	.hoverIcon:active {
+		transform: scale(1);
+		transition: .3s all;
+	}
